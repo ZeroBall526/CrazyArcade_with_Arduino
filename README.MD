@@ -28,7 +28,7 @@
 | A5, 8 | 0x20(spacebar) | 물폭탄 설치 |
 | GND | Null (GND 역할) | -극 역할 |
 
-### LICENSE
+## LICENSE
 
 
 본 소스는 MIT 라이센스를 준수합니다. 자세한 내용은 [LICENSE](./LICENSE)를 참고해주세요.
