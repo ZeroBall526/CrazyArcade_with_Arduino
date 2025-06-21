@@ -4,7 +4,7 @@
 
 <aside>
 
-⚡ Target Board : Arduino Leonardo , Arduino Pro Micro (**ATmega32U4 Series)**
+>⚡ Target Board : Arduino Leonardo , Arduino Pro Micro (**ATmega32U4 Series)**
 
 </aside>
 
